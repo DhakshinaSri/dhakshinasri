@@ -1,16 +1,22 @@
-## Hi there 👋
+# About Me
 
-<!--
-**DhakshinaSri/dhakshinasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-Here are some ideas to get you started:
+I build, break, and rebuild ideas until they become something meaningful. What started as curiosity about how digital experiences work quickly turned into a habit: exploring new technologies, experimenting with ideas, and constantly pushing each project to be better than the last. For me, every project is an upgrade over the previous one.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I don't just build interfaces - I shape how people experience technology. 
+
+</td>
+<td width="40%" valign="top" align="center">
+
+```text
+ ───▄▀▀▀▄▄▄▄▄▀▀▀▄───
+ ──▐▒▒▒▒▒▒▒▒▒▒▒▒▒▌──
+ ──▌▒▒██▒▒▒▒▒██▒▒▐──
+ ─▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▌─
+ ─▌▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▐─
+ ─▌▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▐─
+ ─▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▌─
+ ──▀▄▄▀▀▀▀▀▀▀▀▀▄▄▀──
