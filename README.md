@@ -3,9 +3,9 @@
 </p>
 
 <p align="left">
-  <b><a href="https://dhakshina-portfolio.web.app/" style="color: #ffffff; text-decoration: none;">Portfolio</a></b> &nbsp;&nbsp;•&nbsp;&nbsp; 
-  <b><a href="https://linkedin.com/in/dhakshina" style="color: #ffffff; text-decoration: none;">LinkedIn</a></b> &nbsp;&nbsp;•&nbsp;&nbsp; 
-  <b><a href="https://youtube.com" style="color: #ffffff; text-decoration: none;">YouTube</a></b>
+  <a href="https://dhakshina-portfolio.web.app/" target="_blank"><b><kbd>Portfolio</kbd></b></a> &nbsp;&nbsp;•&nbsp;&nbsp; 
+  <a href="https://linkedin.com/in/dhakshina" target="_blank"><b><kbd>LinkedIn</kbd></b></a> &nbsp;&nbsp;•&nbsp;&nbsp; 
+  <a href="https://www.youtube.com/@varnajalamminicrafts" target="_blank"><b><kbd>YouTube</kbd></b></a>
 </p>
 
 # About Me
