@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="githubcoverimage.png" alt="Dhakshina Cover Banner" width="100%">
+</p>
+
 # About Me
 
 <table>
