@@ -3,9 +3,9 @@
 </p>
 
 <p align="left">
-  <a href="https://dhakshina-portfolio.web.app/">🌐 Portfolio</a> &nbsp;&nbsp;•&nbsp;&nbsp; 
-  <a href="https://linkedin.com/in/dhakshina">💼 LinkedIn</a> &nbsp;&nbsp;•&nbsp;&nbsp; 
-  <a href="https://youtube.com">📺 YouTube</a>
+  <b><a href="https://dhakshina-portfolio.web.app/" style="color: #ffffff; text-decoration: none;">Portfolio</a></b> &nbsp;&nbsp;•&nbsp;&nbsp; 
+  <b><a href="https://linkedin.com/in/dhakshina" style="color: #ffffff; text-decoration: none;">LinkedIn</a></b> &nbsp;&nbsp;•&nbsp;&nbsp; 
+  <b><a href="https://youtube.com" style="color: #ffffff; text-decoration: none;">YouTube</a></b>
 </p>
 
 # About Me
