@@ -14,13 +14,3 @@ I don't just build interfaces - I shape how people experience technology.
 
 </td>
 <td width="40%" valign="top" align="center">
-
-```text
- ───▄▀▀▀▄▄▄▄▄▀▀▀▄───
- ──▐▒▒▒▒▒▒▒▒▒▒▒▒▒▌──
- ──▌▒▒██▒▒▒▒▒██▒▒▐──
- ─▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▌─
- ─▌▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▐─
- ─▌▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▐─
- ─▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▌─
- ──▀▄▄▀▀▀▀▀▀▀▀▀▄▄▀──
