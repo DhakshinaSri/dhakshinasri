@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=900&height=70&lines=AI+%26+Data+Science+Student;Frontend+Developer;UI%2FUX+Designer;AI+%26+ML+Enthusiast;React+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=900&height=70&lines=AI+%26+Data+Science+Student;Frontend+Developer;UI%2FUX+Designer;AI+%26+ML+Enthusiast;React+Developer;Problem+Solver;Logo+Designer" alt="Typing SVG" />
 </p>
 
 
@@ -56,15 +56,12 @@ I don't just build interfaces—I shape how people experience technology.
 
 <h4 align="center" font="bold">Experience</h4>
 
-### Web Developer Intern | Blacklight Technologies
-**September 2025 – Present**
+<h3 align="center" font="bold"> Web Developer Intern | Blacklight Technologies</h3>
+<h4 align="center" font="bold">September 2025 – Present</h4>
 
-- Developed responsive websites using **React** and modern frontend technologies.
-- Built reusable, scalable UI components for maintainable applications.
-- Designed user-friendly interfaces with a focus on **UI/UX** principles.
-- Integrated **Firebase** and deployed production-ready websites.
-- Created logos and branding assets for client projects.
-- Optimized websites for seamless performance across all devices.
+<p align="center">Contributed to the design and development of client websites by combining web design, branding, and UI/UX principles. Built responsive websites using React with reusable, scalable components and transformed design concepts into production-ready web applications. Integrated Firebase for data storage, designed logos and branding assets, and deployed websites to hosting platforms. Gained hands-on experience in frontend development, responsive design, and delivering seamless user experiences across desktop, tablet, and mobile devices.
+</p>
+
 
 #
 
