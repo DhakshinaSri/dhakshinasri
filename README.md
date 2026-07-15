@@ -8,14 +8,9 @@
   <a href="https://www.youtube.com/@varnajalamminicrafts" target="_blank"><b><kbd>YouTube</kbd></b></a>
 </p>
 
-<marquee behavior="scroll" direction="left" scrollamount="8">
-AI & Data Science Student &nbsp;&nbsp; • &nbsp;&nbsp;
-Frontend Developer &nbsp;&nbsp; • &nbsp;&nbsp;
-UI/UX Designer &nbsp;&nbsp; • &nbsp;&nbsp;
-AI & ML Enthusiast &nbsp;&nbsp; • &nbsp;&nbsp;
-React Developer &nbsp;&nbsp; • &nbsp;&nbsp;
-Continuous Learner
-</marquee>
+<p align="right">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=900&height=70&lines=AI+%26+Data+Science+Student;Frontend+Developer;UI%2FUX+Designer;AI+%26+ML+Enthusiast;React+Developer;Problem+Solver" alt="Typing SVG" />
+</p>
 
 # About Me
 
