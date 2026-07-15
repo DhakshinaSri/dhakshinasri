@@ -45,16 +45,17 @@ I don't just build interfaces - I shape how people experience technology.
   <img src="techlogos/powerbilogo.png" width="45" height="45" alt="PowerBI">
 </p>
 
-## Experience
+<h2 align="center">Experience</h2>
 
 ### Web Developer Intern | Blacklight Technologies
-** September 2025 – Present**
+**September 2025 – Present**
 
-- Develop responsive web applications using **React**, **Vite**, and **Tailwind CSS**
-- Design intuitive and visually appealing user interfaces
-- Integrate **Firebase** services and deploy production-ready applications
-- Build reusable components and optimize application performance
-- Collaborate with cross-functional teams to deliver scalable digital solutions
+- Developed responsive websites using **React** and modern frontend technologies.
+- Built reusable, scalable UI components for maintainable applications.
+- Designed user-friendly interfaces with a focus on **UI/UX** principles.
+- Integrated **Firebase** and deployed production-ready websites.
+- Created logos and branding assets for client projects.
+- Optimized websites for seamless performance across all devices.
 
 #
 
