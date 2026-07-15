@@ -12,17 +12,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=900&height=70&lines=AI+%26+Data+Science+Student;Frontend+Developer;UI%2FUX+Designer;AI+%26+ML+Enthusiast;React+Developer;Problem+Solver" alt="Typing SVG" />
 </p>
 
-## About Me
 
-<td width="100%" valign="top" align="center">
+#
 
+<h4 align="center" font="bold">About Me</h4>
+
+<p align="center">
 I build, break, and rebuild ideas until they become something meaningful. What started as curiosity about how digital experiences work quickly turned into a habit: exploring new technologies, experimenting with ideas, and constantly pushing each project to be better than the last. For me, every project is an upgrade over the previous one.
+</p>
 
-I don't just build interfaces - I shape how people experience technology. 
+<br>
+<p align="center">
+I don't just build interfaces—I shape how people experience technology.
+</p>
 
-</td>
 
-## Skills & Technologies
+#
+
+<h4 align="center" font="bold">Skills & Technologies</h4>
 
 <p align="center">
   <img src="techlogos/reactlogo.png" width="45" height="45" alt="React"> &nbsp;
@@ -45,7 +52,9 @@ I don't just build interfaces - I shape how people experience technology.
   <img src="techlogos/powerbilogo.png" width="45" height="45" alt="PowerBI">
 </p>
 
-<h2 align="center">Experience</h2>
+# 
+
+<h4 align="center" font="bold">Experience</h4>
 
 ### Web Developer Intern | Blacklight Technologies
 **September 2025 – Present**
