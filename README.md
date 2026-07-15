@@ -10,8 +10,6 @@
 
 # About Me
 
-<table>
-<tr>
 <td width="100%" valign="top">
 
 I build, break, and rebuild ideas until they become something meaningful. What started as curiosity about how digital experiences work quickly turned into a habit: exploring new technologies, experimenting with ideas, and constantly pushing each project to be better than the last. For me, every project is an upgrade over the previous one.
