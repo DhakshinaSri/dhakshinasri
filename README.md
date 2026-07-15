@@ -38,3 +38,7 @@ I don't just build interfaces - I shape how people experience technology.
   <img src="techlogos/vercellogo.png" width="45" height="45" alt="Vercel"> &nbsp;
   <img src="techlogos/powerbilogo.png" width="45" height="45" alt="PowerBI">
 </p>
+
+# GitHub Activity Graph
+
+[![Dhakshina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DhakshinaSri&theme=github-compact)](https://github.com/DhakshinaSri)
