@@ -26,8 +26,8 @@ I don't just build interfaces - I shape how people experience technology.
   <img src="techlogos/htmllogo.png" width="45" height="45" alt="HTML"> &nbsp;
   <img src="techlogos/csslogo.png" width="45" height="45" alt="CSS"> &nbsp;
   <img src="techlogos/pythonlogo.png" width="45" height="45" alt="Python"> &nbsp;
-  <img src="techlogos/cLogo.png" width="45" height="45" alt="C"> &nbsp;
-  <img src="techlogos/vscode.png" width="45" height="45" alt="VSCode"> &nbsp;
+  <img src="techlogos/clogo.png" width="45" height="45" alt="C"> &nbsp;
+  <img src="techlogos/vscodelogo.png" width="45" height="45" alt="VSCode"> &nbsp;
   <img src="techlogos/figmalogo.png" width="45" height="45" alt="Figma"> &nbsp;
   <img src="techlogos/splinelogo.png" width="45" height="45" alt="Spline"> &nbsp;
   <img src="techlogos/bashlogo.png" width="45" height="45" alt="Bash"> &nbsp;
@@ -35,6 +35,6 @@ I don't just build interfaces - I shape how people experience technology.
   <img src="techlogos/postgreslogo.png" width="45" height="45" alt="PostgreSQL"> &nbsp;
   <img src="techlogos/firebaselogo.png" width="45" height="45" alt="Firebase"> &nbsp;
   <img src="techlogos/supabaselogo.png" width="45" height="45" alt="Supabase"> &nbsp;
-  <img src="techlogos/vercel.png" width="45" height="45" alt="Vercel"> &nbsp;
+  <img src="techlogos/vercellogo.png" width="45" height="45" alt="Vercel"> &nbsp;
   <img src="techlogos/powerbilogo.png" width="45" height="45" alt="PowerBI">
 </p>
