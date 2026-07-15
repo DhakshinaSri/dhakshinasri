@@ -8,6 +8,15 @@
   <a href="https://www.youtube.com/@varnajalamminicrafts" target="_blank"><b><kbd>YouTube</kbd></b></a>
 </p>
 
+<marquee behavior="scroll" direction="left" scrollamount="8">
+AI & Data Science Student &nbsp;&nbsp; • &nbsp;&nbsp;
+Frontend Developer &nbsp;&nbsp; • &nbsp;&nbsp;
+UI/UX Designer &nbsp;&nbsp; • &nbsp;&nbsp;
+AI & ML Enthusiast &nbsp;&nbsp; • &nbsp;&nbsp;
+React Developer &nbsp;&nbsp; • &nbsp;&nbsp;
+Continuous Learner
+</marquee>
+
 # About Me
 
 <td width="100%" valign="top">
@@ -20,7 +29,7 @@ I don't just build interfaces - I shape how people experience technology.
 
 # Skills & Technologies
 
-<p align="left">
+<p align="center">
   <img src="techlogos/reactlogo.png" width="45" height="45" alt="React"> &nbsp;
   <img src="techlogos/jslogo.png" width="45" height="45" alt="Javascript"> &nbsp;
   <img src="techlogos/htmllogo.png" width="45" height="45" alt="HTML"> &nbsp;
@@ -29,6 +38,8 @@ I don't just build interfaces - I shape how people experience technology.
   <img src="techlogos/clogo.png" width="45" height="45" alt="C"> &nbsp;
   <img src="techlogos/vscodelogo.png" width="45" height="45" alt="VSCode"> &nbsp;
   <img src="techlogos/figmalogo.png" width="45" height="45" alt="Figma"> &nbsp;
+</p>
+<p align="center">
   <img src="techlogos/splinelogo.png" width="45" height="45" alt="Spline"> &nbsp;
   <img src="techlogos/bashlogo.png" width="45" height="45" alt="Bash"> &nbsp;
   <img src="techlogos/githublogo.png" width="45" height="45" alt="GitHub"> &nbsp;
@@ -41,4 +52,4 @@ I don't just build interfaces - I shape how people experience technology.
 
 # GitHub Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DhakshinaSri&bg_color=0d1117&color=ffffff&line=ffffff&point=58a6ff&area=true&hide_border=true)](https://github.com/DhakshinaSri)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DhakshinaSri&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/DhakshinaSri)
